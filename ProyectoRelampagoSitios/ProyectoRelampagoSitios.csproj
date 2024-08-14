@@ -82,6 +82,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="estilos\" />
+    <Folder Include="imagenes\" />
     <Folder Include="Vistas\" />
   </ItemGroup>
   <PropertyGroup>
